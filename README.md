@@ -1,7 +1,7 @@
 # Netflix UI Clone
  In this project, I built a Netflix UI Clone using HTML, CSS, and JavaScript. The goal was to replicate the visual design and basic functionality of Netflix's homepage. The project features a responsive layout, movie sections with horizontal scrolling, providing a familiar user experience similar to the original Netflix interface.
 
-![Netflix_UI_Clone](https://github.com/ramajan-tahashildar/Netflix-UI-Clone/blob/6a47bd33e955077e072f5a64071d3354c428434d/assets/images/Demo.png)
+![Netflix_UI_Clone](assets/images/Demo.png)
 
 A project to replicate the user interface of Netflix using HTML and CSS. This clone focuses on mirroring the aesthetic and layout of the Netflix homepage.
 
