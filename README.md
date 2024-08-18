@@ -39,4 +39,4 @@ A project to replicate the user interface of Netflix using HTML and CSS. This cl
 - Styling: Consistent styling for buttons, text, and layout elements.
 
 ## Contributors
-**Ramajan Tahashildar**
+![image](assets/images/Contributors.png)**Ramajan Tahashildar**
