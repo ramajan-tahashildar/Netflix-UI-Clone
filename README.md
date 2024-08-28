@@ -22,7 +22,7 @@ A project to replicate the user interface of Netflix using HTML and CSS. This cl
 
 ## File Structure
 - `Netflix_UI_Clone.html` - Main HTML file for the website.
-- `assets/` - Directory containing images and CSS files.
+- `assets/` - Directory containing images files.
   - `images/` - Contains image files used in the project.
 - `CSS/` - Contains CSS files for styling.
     - `styles.css` - Complete styling.
